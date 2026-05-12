@@ -1,4 +1,4 @@
-#  
+#  Enhance Trello for macOS with Trello for macOS new Utility - auto-sync and dark mode, the #1 utility. Includes auto-sync and dark mode for a smoother experience.
 
 
 
